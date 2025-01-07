@@ -36,13 +36,13 @@ This project **WILL NOT** be hosted on Vercel.
 #### Revision History  
 - [1/6/25] done  
 
-# Review by: 
+# Review by: Charles Orr
 
-### Overall Feedback:  
+### Overall Feedback: 
 
 
 ### Suggestions:
 - []
 - []
 
-### Final Thoughts: 
+### Final Thoughts: Project looks Great, i dont see anywhere to make improvements
